@@ -2,7 +2,7 @@
 
 Hello! I'm Dave.
 
-**Check out my train game, Trains.NET: https://wengier.com/Trains.NET/**
+**Check out my train "game", Trains.NET: https://wengier.com/Trains.NET/**
 
 Professionally, I work on the Razor Tooling team at Microsoft making Visual Studio and Visual Studio Code better for Razor and Blazor developers everywhere. I used to be part of the Roslyn team, doing the same thing for C# and VB developers, and can occasionally be found poking my nose in there from time to time.
 
