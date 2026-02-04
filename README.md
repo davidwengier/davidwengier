@@ -10,4 +10,4 @@ Unprofessionally, I _(Ed: used to)_ stream on Twitch every Wednesday night at 8:
 
 The best way to reach me is probably to follow me on Bluesky at [@david.wengier.com](https://bsky.app/profile/david.wengier.com) or Mastodon where I am [@davidwengier@aus.social](https://aus.social/@davidwengier). Technically I have a website at [https://wengier.com](https://wengier.com) but at time of writing, that just redirects here. I hate blogging and have never been very good at it. If you want to extract information from my brain, feel free to invite me onto your podcast :)
 
-Also, apparently I make a few commits: [![committers.top badge](https://user-badge.committers.top/australia/davidwengier.svg)](https://user-badge.committers.top/australia/davidwengier)
+Also, apparently I make a few commits too: [![committers.top badge](https://user-badge.committers.top/australia/davidwengier.svg)](https://user-badge.committers.top/australia/davidwengier). Most of them carefully crafted and considered, I swear.
