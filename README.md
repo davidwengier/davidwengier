@@ -19,6 +19,7 @@ Also, apparently I make a few commits too: [![committers.top badge](https://user
 
 **And some fun things I've done but haven't looked at a single line of code for:**
 
+* Infinite Dug - https://wengier.com/InfiniteDug/
 * Infinite Soldiers - https://wengier.com/InfiniteSoldiers/
 * Infinite Queens - https://wengier.com/InfiniteQueens/
 * Coincidental Word Grouping Game - https://wengier.com/CoincidentalWordGroupingGame/
