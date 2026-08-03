@@ -19,8 +19,12 @@ Also, apparently I make a few commits too: [![committers.top badge](https://user
 
 **And some fun things I've done but haven't looked at a single line of code for:**
 
-* Infinite Gummies - http://wengier.com/InfiniteGummies/ (vibed by my 11yo son 😍)
 * Infinite Dug - https://wengier.com/InfiniteDug/
 * Infinite Soldiers - https://wengier.com/InfiniteSoldiers/
 * Infinite Queens - https://wengier.com/InfiniteQueens/
 * Coincidental Word Grouping Game - https://wengier.com/CoincidentalWordGroupingGame/
+
+**And some things vibe coded by my 12yo:**
+
+* Infinite Gummies - http://wengier.com/InfiniteGummies/
+* Box Box Motors - http://wengier.com/BoxBoxMotors/
