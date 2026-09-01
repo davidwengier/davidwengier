@@ -24,4 +24,4 @@ Also, apparently I make a few commits too: [![committers.top badge](https://user
 * Infinite Queens - https://wengier.com/InfiniteQueens/
 * Coincidental Word Grouping Game - https://wengier.com/CoincidentalWordGroupingGame/
 
-or check out the games vibe-coded by my 12yo son: [https://max.wengier.com](max.wengier.com)
+or check out the games vibe-coded by my 12yo son: [max.wengier.com](https://max.wengier.com)
