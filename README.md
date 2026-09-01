@@ -24,9 +24,4 @@ Also, apparently I make a few commits too: [![committers.top badge](https://user
 * Infinite Queens - https://wengier.com/InfiniteQueens/
 * Coincidental Word Grouping Game - https://wengier.com/CoincidentalWordGroupingGame/
 
-**And some things vibe coded by my 12yo:**
-
-* Infinite Gummies - http://wengier.com/InfiniteGummies/
-* Box Box Motors - http://wengier.com/BoxBoxMotors/
-* Box Box Joker - http://wengier.com/BoxBoxJoker/
-* Box Box Fighters - http://wengier.com/BoxBoxFighters/
+or check out the games vibe-coded by my 12yo son: [max.wengier.com](max.wengier.com)
